@@ -1,6 +1,6 @@
 # zsvimsetting
 
-[![Build Status](https://travis-ci.com/zhuosongz/zsvimsetting.svg?branch=master)](https://travis-ci.com/zhuosongz/myvimplugins)
+[![Build Status](https://travis-ci.org/zhuosongz/zsvimsetting.svg?branch=master)](https://travis-ci.com/zhuosongz/myvimplugins)
 
 
 
