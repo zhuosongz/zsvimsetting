@@ -18,4 +18,4 @@ before_install:
   - rvm use 2.5.0 --install --binary --fuzzy
   - git clone https://github.com/junegunn/vader.vim.git test/vader/vader.vim
 script: 
-    - rake ci
+    - rake ci --trace
