@@ -16,4 +16,7 @@ before_install:
   - vvm use vimorg--v8.0.1529 --install --with-features=huge
   -
   - rvm use 2.5.0 --install --binary --fuzzy
-script: rake ci
+  - git clone https://github.com/junegunn/vader.vim.git test/vader/vader.vim
+script: 
+    - rake ci
+    - test/vader/run 
