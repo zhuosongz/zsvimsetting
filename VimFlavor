@@ -1,3 +1,3 @@
-Plugin 'kana/vim-textobj-user'
-Plugin 'SirVer/ultisnips'
-Plugin 'honza/vim-snippets'
+flavor 'kana/vim-textobj-user'
+flavor 'SirVer/ultisnips'
+flavor 'honza/vim-snippets'
