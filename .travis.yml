@@ -20,4 +20,4 @@ before_install:
   - git clone https://github.com/junegunn/vader.vim.git test/vader/vader.vim
 script: 
     - rake ci --trace
-    - test/vader/run
+    - test/vader/run-tests
