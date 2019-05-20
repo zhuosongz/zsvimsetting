@@ -1,2 +1,3 @@
 # zsvimsetting
-This is my personal vim setting 
+
+This is my personal `vim` setting 
