@@ -19,7 +19,7 @@ before_install:
   - rvm use 2.5.0 --install --binary --fuzzy
   - git clone https://github.com/junegunn/vader.vim.git test/vader/vader.vim
   - git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-
+  - brew cask install skim 
 script: 
     - rake ci --trace
     # - test/vader/run
