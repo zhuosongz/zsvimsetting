@@ -1,7 +1,3 @@
 flavor 'kana/vim-textobj-user'
-flavor 'rbonvall/vim-textobj-latex'
-flavor 'vim-airline/vim-airline'
-flavor 'vim-airline/vim-airline-themes'
 flavor 'SirVer/ultisnips'
 flavor 'honza/vim-snippets'
-flavor 'lervag/vimtex'
